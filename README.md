@@ -2,8 +2,7 @@
 
 A comprehensive Flutter application that provides real-time financial information including news, stock data, and cryptocurrency prices.
 
-https://github.com/HemanthSingavarapu/FinancialAPP/blob/e62a90b4b98aeb73aefe4be58a48fb2b7cb92173/screenshots/HOMEPage1.png <!-- Replace with your actual screenshots -->
-
+![Image Alt](https://github.com/HemanthSingavarapu/FinancialAPP/blob/e62a90b4b98aeb73aefe4be58a48fb2b7cb92173/screenshots/HOMEPage1.png)
 ## Features ✨
 
 - **Financial News**: Latest financial news from around the world
@@ -60,4 +59,5 @@ This app uses multiple third-party APIs to fetch financial data. You'll need to 
    ```bash
    git clone https://github.com/yourusername/financial-app.git
    cd financial-app
+
 
