@@ -13,14 +13,18 @@ A comprehensive Flutter application that provides real-time financial informatio
 
 ## Screenshots 📸
 
-### Home Screen
-![Home Screen](screenshots/home.png) <!-- Add your actual screenshot path -->
+### NEWS Screen
+![Image Alt](https://github.com/HemanthSingavarapu/FinancialAPP/blob/952e62ce5a51d28f267a34e7fb2bb9076dd2e7b9/screenshots/news_screen.png) <!-- Add your actual screenshot path -->
 
 ### Stocks Section
-![Stocks Screen](screenshots/stocks.png) <!-- Add your actual screenshot path -->
+![Image Alt](https://github.com/HemanthSingavarapu/FinancialAPP/blob/952e62ce5a51d28f267a34e7fb2bb9076dd2e7b9/screenshots/Stockscreen.png) <!-- Add your actual screenshot path -->
+![Image Alt](https://github.com/HemanthSingavarapu/FinancialAPP/blob/952e62ce5a51d28f267a34e7fb2bb9076dd2e7b9/screenshots/StockDetails1.png)
+![Image Alt](https://github.com/HemanthSingavarapu/FinancialAPP/blob/952e62ce5a51d28f267a34e7fb2bb9076dd2e7b9/screenshots/StockDetails2.png)
+![Image Alt](https://github.com/HemanthSingavarapu/FinancialAPP/blob/952e62ce5a51d28f267a34e7fb2bb9076dd2e7b9/screenshots/StockDetails3.png)
 
 ### Cryptocurrency Section
-![Crypto Screen](screenshots/crypto.png) <!-- Add your actual screenshot path -->
+![Image Alt](https://github.com/HemanthSingavarapu/FinancialAPP/blob/952e62ce5a51d28f267a34e7fb2bb9076dd2e7b9/screenshots/cryptoScreen.png)<!-- Add your actual screenshot path -->
+![Image Alt](https://github.com/HemanthSingavarapu/FinancialAPP/blob/952e62ce5a51d28f267a34e7fb2bb9076dd2e7b9/screenshots/CryptoDetails.png)
 
 ## API Keys 🔑
 
@@ -59,5 +63,6 @@ This app uses multiple third-party APIs to fetch financial data. You'll need to 
    ```bash
    git clone https://github.com/yourusername/financial-app.git
    cd financial-app
+
 
 
