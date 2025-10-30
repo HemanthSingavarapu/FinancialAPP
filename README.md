@@ -61,8 +61,9 @@ This app uses multiple third-party APIs to fetch financial data. You'll need to 
 ### Steps
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/financial-app.git
-   cd financial-app
+   git clone(https://github.com/HemanthSingavarapu/FinancialAPP.git
+   cd FinancialAPP
+
 
 
 
